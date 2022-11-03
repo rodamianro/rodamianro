@@ -1,2 +1,2 @@
 # Personal page on github
-Landing Page for my profile
+Personal page and portfolio
