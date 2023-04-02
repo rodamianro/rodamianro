@@ -1,2 +1,15 @@
-# Personal page on github
-Personal page and portfolio
+# Hi, I'm Robinson 🦉
+
+I'm a system engineer who is passionate to learn and grow up, I love challenges because I think that the best form to really learn something is failed and trying the times that has to be  necessary and for me is more easy to remember the failures that I had solve. I enjoy working with programming languages that I don't know, the last challenge that I take, it was to learn Drupal and I really like to work with it.
+
+Finally I have working in personal projects in which I decide to make them with differents tecnologies and programming languages like javascript using typescript to create microservices with node and I decide to use docker to deploy that microservices or another example was one in which I took an old porject in pure PHP and I remaked it using Symphony just to take the challenge to make something different and self-imposed good challenge. I love Backend and that had give me the oportunity to work with good companies that they had help to learn and facing up with challenges that makes me grow up as person and professional.
+
+## Some projects in which I had collaborate
+
+| Companie | Project               | Tecnologies       | Urls                                                                                                                                                                                                                                                    | Date       |
+| :------- | :-------------------- | ----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------- |
+| Caffi    | Aula virtual icaroaph | Symphony, Docker  | https://aulavirtualicaroaph.com.co                                                                                                                                                                                                                      | 05/01/2020 |
+| Nivelics | FDN                   | Drupal - Headless | https://www.fdn.com.co                                                                                                                                                                                                                                  | 20/06/2022 |
+| Nivelics | Axioma                | Drupal - Headless | https://www.metalmecanica.com/es<br>https://www.plastico.com/es<br>https://www.elhospital.com/es<br>https://www.en-obra.com/es<br>https://www.revistaialimentos.com/es<br>https://www.manufactura-latam.com/es<br>https://www.revistalabarra.com/es<br> | 15/11/2022 |
+| Nivelics | Brigard               | Drupal            | https://bu.com.co/es<br>https://bc.com.co/es                                                                                                                                                                                                            | 15/01/2023 |
+
